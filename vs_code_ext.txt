@@ -1,0 +1,26 @@
+---VS Code Extensions---
+-Auto Rename Tag
+-Bracket Pair Colorizer
+-JavaScript (ES6) code snippets
+-ES7 React/Redux/GraphQL/React-Native snippets
+-Live Server
+-Polacode
+-Prettier - Code formatter
+-Quokka.js
+-Settings Sync
+-Tabnine
+-Code Spell Checker
+-Better Comments
+-Filesize
+-indent-rainbow
+-TODO Highlight
+
+
+---For Production Use---
+-advanced-new-file
+-GitLens — Git supercharged
+-Live Share
+
+
+VS Code Best Theme
+-Cobalt2 Theme Official
